@@ -1,5 +1,6 @@
 # Chess.com Google Chrome Extension
 This extension displays the current and best Chess.com ratings for user in the time controls of bullet, blitz, and rapid. The extension utilizes the [published Chess.com API](https://www.chess.com/news/view/published-data-api). It also follows a similar structure as the [Chrome extension tutorial](https://developer.chrome.com/docs/extensions/mv3/getstarted/).
+
 ![Display](./display.PNG)
 
 ## Installation
