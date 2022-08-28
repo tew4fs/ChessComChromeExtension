@@ -9,3 +9,5 @@ This extension displays the current and best Chess.com ratings for user in the t
 3. Open [chrome://extensions/](chrome://extensions/) in Google Chrome
 4. Turn on developer mode in the upper right corner
 5. Select "Load unpacked" and select the folder where you downloaded the repo
+
+This extension has no direct affilation with Chess.com
