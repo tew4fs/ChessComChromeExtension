@@ -1,6 +1,6 @@
 {
-    "name": "Getting Started Example",
-    "description": "Build an Extension!",
+    "name": "Chess.com Ratings Extension",
+    "description": "Views your Chess.com ratings straight from the extension",
     "version": "1.0",
     "manifest_version": 3,
     "background": {
