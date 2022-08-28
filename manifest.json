@@ -1,6 +1,6 @@
 {
     "name": "Chess.com Ratings Extension",
-    "description": "Views your Chess.com ratings straight from the extension",
+    "description": "Views your Chess.com ratings straight from the extension. This extension has no direct affilation with Chess.com",
     "version": "1.0",
     "manifest_version": 3,
     "background": {
